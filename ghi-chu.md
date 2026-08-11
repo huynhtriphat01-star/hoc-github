@@ -6,3 +6,4 @@ Hôm nay tôi đã học:
 - Chỉnh sửa README
 - Tạo commit
 - Xem lịch sử thay đổi
+- Tạo và sử dụng branch
