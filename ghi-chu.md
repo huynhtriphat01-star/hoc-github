@@ -7,3 +7,4 @@ Hôm nay tôi đã học:
 - Tạo commit
 - Xem lịch sử thay đổi
 - Tạo và sử dụng branch
+- Chỉnh sửa dự án trên máy tính
